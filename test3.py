@@ -1,0 +1,1 @@
+print("This is a main for test 3")
